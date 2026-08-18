@@ -407,13 +407,9 @@ To extend or modify Arceus:
 - Check GH_TOKEN is valid and has repo permissions
 - Ensure ARCEUS_PROD_BRANCH exists on remote
 
-## 📄 License
-
-[Specify your project's license]
-
 ## 👤 Author
 
-Manish Bisht (manish@delightree.com)
+Manish Bisht
 
 ---
 
